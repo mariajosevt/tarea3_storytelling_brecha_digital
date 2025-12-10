@@ -1,8 +1,11 @@
 # Tarea 3 – Visualización y Storytelling con Datos
 ### Brecha Digital Global: Evolución, Desigualdad y Futuro del Acceso a Internet (1990–2023)
 **Alumnos:** Valentina Carné ​/ Camila Figueroa ​/ Néctor Felipe Ruiz​ / María José Vásquez
+
 **Profesor:** Carlos Pérez
+
 **Curso:** Visualización de Datos y Storytelling
+
 **Dataset:** Our World in Data – Share of Individuals Using the Internet (%)
 
 ---
