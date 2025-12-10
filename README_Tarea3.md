@@ -27,14 +27,21 @@
     share-of-individuals-using-the-internet.csv
 
 /figures/
-    hist_paises_2020.png
-    boxplot_paises_2020.png
+    top10_paises_2020.png
+    tendencia_global_promedio.png
     series_regiones_WB.png
-    brecha_na_ssa.png
-    growth_last_10_years_regions.png
     proyeccion_brecha_na_ssa.png
     paises_seleccionados_series.png
-    mapa_mundial_2020.png
+    hist_paises_2020.png
+    heatmap_regiones_anios.png
+    growth_last_10_years_regions.png
+    growth_last_10_years.png
+    brecha_na_ssa.png
+    boxplot_paises_2023.png
+    boxplot_paises_2020.png
+    acto3_proyeccion_brecha.png
+    acto2_brecha_na_ssa.png
+    acto1_series_regiones.png
 
 /ppt/
     Presentacion_Brecha_Digital.pptx
