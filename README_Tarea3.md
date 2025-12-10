@@ -21,7 +21,7 @@
 
 ```
 /notebooks/
-    tarea3_storytelling_profesional.ipynb
+    tarea3_storytelling_brecha_digital.ipynb
 
 /data/
     share-of-individuals-using-the-internet.csv
